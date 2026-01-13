@@ -1,5 +1,6 @@
 This is the first commit.
 This is the second commit - Added login feature
+This is the commit going to bring merge conflict.
 This is the first out of five commit i am going to make.
 This is the second one.
 This is the Third one.
